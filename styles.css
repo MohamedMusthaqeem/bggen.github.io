@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  word-spacing: 5px;
+  background: linear-gradient(to right, red, yellow);
+}
+h1 {
+  font-family: fantasy;
+  font-size: 5em;
+  color: rgbA(0, 0, 0, 0.6);
+  word-spacing: 0.2em;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+h2 {
+  font-family: fantasy;
+  font-size: 2em;
+  color: rgbA(0, 0, 0, 0.6);
+  word-spacing: 0.2em;
+  letter-spacing: 5px;
+}
